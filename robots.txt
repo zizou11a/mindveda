@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mindveda.online/sitemap.xml
