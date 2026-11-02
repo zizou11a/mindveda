@@ -1,2 +1,0 @@
-# mindveda
-healthy mental store 
