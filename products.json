@@ -1,0 +1,225 @@
+{
+  "settings": {
+    "store": "mindveda",
+    "logo": "",
+    "accent": "#facc15",
+    "email": "mindveda@proton.me",
+    "wa": "",
+    "foot": "",
+    "url": "https://mindveda.online/",
+    "docs": {
+      "about": {
+        "en": "Mindveda is a small independent site. We pick digital products, books and wellness products, explain what each one includes, and link you to the official seller’s page.\nWe’re an affiliate, so we may earn a commission when you buy through our links, at no extra cost to you. We don’t sell other companies’ products and we can’t promise any result.\nWe also sell our own books. They are marked “Our book”, and you buy them from our shop.\nQuestions? Reach us through the Contact page.",
+        "ar": "Mindveda موقع مستقل صغير. نختار منتجات رقمية وكتبًا ومنتجات للعافية، ونوضح لكل منتج ما يتضمنه ونربطك بصفحة البائع الرسمية.\nنحن شركاء تسويق وقد نحصل على عمولة عند الشراء عبر روابطنا، دون أي تكلفة إضافية عليك. لا نبيع منتجات الشركات الأخرى ولا نعد بأي نتيجة.\nونبيع كذلك كتبنا الخاصة، وهي موسومة بعبارة “كتابنا”، وتشتريها من متجرنا.\nلديك سؤال؟ استخدم صفحة اتصل بنا."
+      },
+      "contact": {
+        "en": "Questions about a product or your free bonus? Send us an email and we’ll get back to you as soon as we can.",
+        "ar": "أسئلة عن منتج أو عن البونص المجاني؟ راسلنا بالبريد وسنرد عليك في أقرب وقت."
+      },
+      "priv": {
+        "en": "We keep your data to a minimum.\nIf you claim a free bonus, you email us your purchase receipt. It shows your email address and the product you bought. We use it only to confirm your purchase and send your bonus. We don’t sell or share it.\nThis site doesn’t use advertising trackers.\nWhen you click an offer, you leave this site. The seller’s site has its own privacy policy and may use cookies, and we don’t control it.\nTo have your email or receipt deleted, write to us at the address on the Contact page.",
+        "ar": "نحتفظ بأقل قدر ممكن من بياناتك.\nإذا طلبت البونص المجاني فإنك ترسل لنا إيصال الشراء بالبريد، وهو يحتوي عنوان بريدك واسم المنتج الذي اشتريته. نستخدمه فقط للتحقق من الشراء وإرسال البونص، ولا نبيعه ولا نشاركه مع أحد.\nلا يستخدم هذا الموقع متتبعات إعلانية.\nعند النقر على عرض فإنك تغادر هذا الموقع. لموقع البائع سياسة خصوصية خاصة به وقد يستخدم ملفات تعريف الارتباط، ولا نتحكم فيه.\nلحذف بريدك أو إيصالك راسلنا على العنوان في صفحة اتصل بنا."
+      },
+      "terms": {
+        "en": "Unless an item is marked “Our book”, this site lists third-party products and is not the seller. When you click an offer, you buy from the seller under their terms and refund policy.\nFor physical products, shipping, delivery, returns and refunds are handled by the seller under their own policy.\nFree bonus: some products come with a bonus that we provide ourselves. To get it, buy through our link and email us your purchase receipt. We send the bonus after we confirm the purchase. The bonus comes from us, not the seller. If the purchase is refunded or cancelled, we may withdraw the bonus. We may change or end a bonus offer at any time.\nWe make no promise about any result you may get from a product or a bonus.\nItems marked “Our book” are our own products. We are the seller, and your purchase is handled by our shop under the terms shown on its page.",
+        "ar": "ما لم يُوسم المنتج بعبارة “كتابنا”، فهذا الموقع يعرض منتجات أطراف ثالثة ولسنا البائع. عند النقر على عرض فإنك تشتري من البائع وفق شروطه وسياسة الاسترجاع لديه.\nأما المنتجات المادية فالشحن والتسليم والإرجاع والاسترداد يتولاها البائع وفق سياسته.\nالبونص المجاني: بعض المنتجات يأتي مع بونص نقدمه نحن. للحصول عليه اشترِ عبر رابطنا وأرسل إيصال الشراء بالبريد، ونرسل البونص بعد التحقق من الشراء. البونص منّا وليس من البائع. وإذا استُرد مبلغ الشراء أو أُلغي فقد نسحب البونص. ويحق لنا تعديل عرض البونص أو إنهاؤه في أي وقت.\nلا نعد بأي نتيجة من منتج أو بونص.\nالمنتجات الموسومة بعبارة “كتابنا” هي منتجاتنا الخاصة. نحن البائع، وتتم عملية الشراء عبر متجرنا وفق الشروط المعروضة في صفحته."
+      },
+      "disclaimer": {
+        "en": "We’re an affiliate for third-party products and may earn a commission when you buy through our links, at no extra cost to you. Items marked “Our book” are our own products, not affiliate links.\nThis site is for general information only. It isn’t medical, psychological or professional advice and doesn’t replace a doctor or licensed professional. If you feel unwell or unsafe, contact a professional or your local emergency service.\nSupplements: any statements about supplements come from the sellers and have not been evaluated by the FDA. Supplements are not intended to diagnose, treat, cure or prevent any disease. Talk to your doctor before taking one, especially if you’re pregnant, nursing or take medication.\nResults vary. Product claims come from the sellers, and we don’t guarantee any result, income or health outcome.\nThis site is independent and is not owned or endorsed by ClickBank or any seller.",
+        "ar": "نحن شركاء تسويق لمنتجات الآخرين، وقد نحصل على عمولة عند الشراء عبر روابطنا، دون أي تكلفة إضافية عليك. والمنتجات الموسومة بعبارة “كتابنا” هي منتجاتنا الخاصة وليست روابط تسويق بالعمولة.\nالموقع للمعلومات فقط، وليس نصيحة طبية أو نفسية أو مهنية، ولا يغني عن الطبيب أو المختص. وإن شعرت بسوء أو بعدم أمان فتواصل مع مختص أو مع خدمة الطوارئ في بلدك.\nالمكملات: أي عبارات عن المكملات صادرة عن البائعين ولم تقيّمها إدارة الغذاء والدواء الأمريكية (FDA). والمكملات غير مخصصة لتشخيص أو علاج أو شفاء أو منع أي مرض. استشر طبيبك قبل تناول أي مكمل، خاصة إن كنت حاملًا أو مرضعًا أو تتناول دواءً.\nالنتائج تختلف. ادعاءات المنتجات صادرة عن البائعين، ولا نضمن أي نتيجة أو دخل أو أثر صحي.\nالموقع مستقل ولا يتبع ClickBank أو أي بائع ولا يحظى بتأييدهم."
+      }
+    },
+    "cats": {},
+    "rates": {},
+    "pwa": false,
+    "ga": "",
+    "gtm": "",
+    "px": ""
+  },
+  "products": [
+    {
+      "id": "calm-reset",
+      "name": "Healthy Minded Calm Reset System: Digital Journaling & Mindful Reflection Bundle",
+      "category": "Journaling & Mindfulness",
+      "price": 37,
+      "hoplink": "https://b429071cxpzeljyasaw1pb6s0v.hop.clickbank.net",
+      "description": "Eight PDFs (journal prompts, worksheets, a 7-day plan, affirmation cards and a sleep checklist) plus two 10-minute binaural-beat audio tracks. One-time $37 digital download, no shipping.",
+      "featured": true,
+      "images": [
+        "img/calm-reset-1.webp"
+      ],
+      "long": "## Can't quiet your mind at night?\nWhen the day is over but your thoughts keep going, even bedtime can feel exhausting.\n\n## It's not always about trying harder to relax\nSometimes the hardest part of bedtime is the shift from a busy day to a quiet night. Unfinished tasks, constant notifications and daily pressures can keep your attention busy long after you put your phone down.\nInstead of forcing yourself to stop thinking, it may help to build a small, repeatable routine that gives you time to pause, reflect and unwind.\n\n## What could your evenings look like?\n- Less mental clutter: make space to organize your thoughts instead of carrying every worry into bed.\n- A calmer bedtime routine: build a consistent wind-down ritual that fits your day.\n- Simple steps: follow manageable exercises instead of adding another complicated task.\n- More time for yourself: a few quiet moments to reflect, breathe and reset.\n\nIndividual experiences vary. These are intended benefits, not guaranteed outcomes.",
+      "html": "<h2>Is your mind still busy when the day is over?</h2>\n<p>Unfinished tasks, notifications and daily pressure can keep your thoughts running long after you put your phone down.</p>\n<p>Trying harder to relax doesn’t always work. A small, repeatable routine that gives you time to pause and reflect can be an easier place to start.</p>\n\n<h2>A simpler way to approach it</h2>\n<p>Calm Reset is a printable digital journaling and reflection bundle: eight PDFs and two short audio tracks. Instead of starting from a blank page, you get a worked example, a fillable daily worksheet, 30 daily prompts and a 7-day plan.</p>\n\n<h2>How you might use it</h2>\n<ol>\n<li>Download the zip after you buy and unzip it. Open “Read Me First”, then start with the Reset Practice.</li>\n<li>Read the worked example, then write a short reply on the daily worksheet. You can fill it in on screen, print it, or use your own notebook.</li>\n<li>Use the 7-day plan and the weekly tracker to see what is worth repeating, or pick one of the 30 daily prompts.</li>\n<li>Add the two 10-minute audio tracks if you like. They are optional.</li>\n</ol>\n\n<h2>Who it may suit</h2>\n<ul>\n<li>Adults who want a beginner-friendly way into journaling and quiet reflection.</li>\n<li>People who prefer guided prompts and a clear structure to a blank notebook.</li>\n<li>Anyone who likes printable worksheets, or who is happy to type into fillable PDFs.</li>\n</ul>\n\n<h2>Who it may not suit</h2>\n<ul>\n<li>If you want an app, a live coach or lessons. It is self-guided and has none of these.</li>\n<li>If you expect guided meditations. The two audio tracks are binaural beats, not spoken sessions.</li>\n<li>If you need professional support. The seller says it isn’t therapy, diagnosis or medical advice, and it doesn’t replace a doctor or licensed professional.</li>\n</ul>\n\n<h2>Our honest take</h2>\n<p>We haven’t tried Calm Reset ourselves. This take is based on reading the seller’s page and listing what the bundle includes.</p>\n<p>What stood out to us: the worked example and the fillable daily worksheet make it easier to begin, and it is a one-time purchase with no subscription.</p>\n<p>What to keep in mind: only two files are fillable, the rest are printable PDFs, and the audio is binaural beats rather than guided meditation. Treat the claims as the seller’s own.</p>\n\n<h2>Good to know</h2>\n<ul>\n<li>The price on the seller’s page is $37, one time. Taxes, if any, show at checkout.</li>\n<li>ClickBank is the retailer. The seller’s page says its checkout allows returns or exchanges within 60 days of purchase. Check ClickBank’s current refund policy before you buy.</li>\n<li>For help opening the files, the seller’s page lists a support email for the product and download.</li>\n<li>Results vary from person to person.</li>\n<li>We’re an affiliate and may earn a commission if you buy through our link, at no extra cost to you.</li>\n</ul>\n\n<h2>A free bonus when you buy through us</h2>\n<p>Our printable 30-day Sleep &amp; Rest Reset workbook is yours when you buy through the button on this page. Email your purchase receipt to the address in the bonus box, and we’ll send it after we confirm the purchase.</p>",
+      "bonus": {
+        "image": "img/calm-reset-bonus.webp",
+        "text": "Free bonus: our printable 30-day Sleep & Rest Reset workbook when you buy Calm Reset through our affiliate link. Email your purchase receipt and receive the PDF within 24 hours after verification.",
+        "contact": "mindveda@proton.me"
+      },
+      "details": [
+        "Reset Practice: a 4-page starter path with a worked example, a fillable daily worksheet and a fillable weekly tracker",
+        "Read Me First: how to open the download and choose where to start",
+        "Mind Reset Guide: a short reset exercise, a daily worksheet and a weekly reflection",
+        "Overthinking Reset Journal: 30 daily prompts and a closing reflection",
+        "Anxiety & Stress Relief Workbook: grounding, thought reflection and body check-in worksheets",
+        "7-Day Calm Mind Routine: a daily exercise and reflection to help you get started",
+        "Printable Affirmation Cards: 12 cards",
+        "Sleep Reset Checklist: an evening checklist and a 7-night routine tracker",
+        "Two 10-minute MP3 tracks: Calm Binaural Beats and Focus Calm Binaural Beats (binaural beats, not guided meditations)"
+      ]
+    },
+    {
+      "id": "plant-based-cookbook",
+      "name": "The Complete Plant-Based Cookbook: 200+ Easy Recipes",
+      "category": "Cooking & Food",
+      "price": 14,
+      "hoplink": "https://d06ab83ankwedwyoww2jc08q04.hop.clickbank.net",
+      "description": "A digital plant-based cookbook with 200+ quick recipes (30 minutes or less) using supermarket ingredients. Instant download, no shipping. A bundle with extra guides is offered on the seller’s page.",
+      "featured": false,
+      "images": [
+        "img/plant-based-cookbook-1.webp"
+      ],
+      "html": "<h2>Looking for quick plant-based dinners?</h2>\n<p>Eating more plants shouldn’t mean hours in the kitchen. A cookbook that sticks to everyday ingredients and short prep times can make it easier to plan a week of meals.</p>\n\n<h2>What the seller says about it</h2>\n<p>The seller says The Complete Plant-Based Cookbook is a digital cookbook with 200+ plant-based recipes that take 30 minutes or less and use supermarket ingredients. It also includes a simple nutrition guide. The page shows sample recipes such as Sweet Potato &amp; Chickpea Curry, Vegan Shepherd’s Pie, Turkish Spinach Pide, Crispy Tofu Schnitzel and Vegan Blueberry Cheesecake.</p>\n\n<h2>Two options on the seller’s page</h2>\n<ul>\n<li><strong>The Essentials:</strong> the cookbook alone, listed at $14.</li>\n<li><strong>The Full Bundle:</strong> the cookbook plus four guides, listed at $19: a 30-Day Vegan Jumpstart (meal plan and grocery lists), 100 Easy Vegan Smoothie Recipes, Protein-Packed Vegan Acai Bowls, and a Veganize Baking Cookbook.</li>\n</ul>\n\n<h2>How you might use it</h2>\n<ol>\n<li>Download the files after you buy. The seller says nothing is shipped.</li>\n<li>Browse the categories, such as breakfasts, bowls, pasta, tacos, pizza, burgers, wraps and salads, and pick one meal to try.</li>\n<li>If you choose the bundle, the seller says the jumpstart guide includes a 4-week meal plan and ready-made grocery lists.</li>\n</ol>\n\n<h2>Who it may suit</h2>\n<ul>\n<li>People new to plant-based cooking who want simple, familiar ingredients.</li>\n<li>Busy cooks who want meals in 30 minutes or less.</li>\n<li>Anyone stuck cooking the same few meals who wants more ideas.</li>\n</ul>\n\n<h2>Who it may not suit</h2>\n<ul>\n<li>If you follow a special diet for a medical condition. A simple nutrition guide is not personal advice, so talk to your doctor or a dietitian.</li>\n<li>If you have allergies. Recipes include things like tofu, nuts and peanut butter, so check each ingredient list.</li>\n<li>If you want a printed book. It is digital only.</li>\n</ul>\n\n<h2>Our honest take</h2>\n<p>We haven’t tried this cookbook ourselves. This take is based on reading the seller’s page.</p>\n<p>What stood out to us: a large number of recipes for a low price, short prep times, and an optional bundle that adds a meal plan and grocery lists.</p>\n<p>What to keep in mind: the reviews on the page are screenshots we can’t verify, and the “regular” prices shown are the seller’s own list prices.</p>\n\n<h2>Before you decide</h2>\n<ul>\n<li>On the page we read, the cookbook was $14 and the Full Bundle $19. Check the current prices on the seller’s page.</li>\n<li>The seller says it is a one-time payment with lifetime access and a 60-day money-back guarantee. Read the refund terms before you buy.</li>\n<li>This is a cookbook, not medical or nutrition advice.</li>\n<li>We’re an affiliate and may earn a commission if you buy through our link, at no extra cost to you.</li>\n</ul>",
+      "details": [
+        "200+ plant-based recipes (30 minutes or less, supermarket ingredients)",
+        "Simple nutrition guide",
+        "Sample recipes shown: Sweet Potato & Chickpea Curry, Vegan Shepherd’s Pie, Turkish Spinach Pide, Crispy Tofu Schnitzel, Vegan Blueberry Cheesecake",
+        "The Full Bundle ($19 on the page we read) adds: 30-Day Vegan Jumpstart, 100 Easy Vegan Smoothie Recipes, Protein-Packed Vegan Acai Bowls and a Veganize Baking Cookbook",
+        "One-time payment, lifetime access, 60-day money-back guarantee"
+      ]
+    },
+    {
+      "id": "anxiety-reset-workbook",
+      "name": "The Anxiety Reset Workbook: A 30-Day Guided Self-Help Plan",
+      "category": "Journaling & Mindfulness",
+      "price": 12.99,
+      "hoplink": "https://holisticpages.shop/b/tZUeP",
+      "description": "A printable 93-page, large-print self-help workbook with a 30-day plan, worked examples and reusable worksheets. Digital download, no shipping.",
+      "featured": false,
+      "own": true,
+      "images": [
+        "img/anxiety-reset-workbook-1.webp"
+      ],
+      "html": "<h2>A structured way to work through worry</h2>\n<p>Feeling caught in a cycle of worry can make it hard to know where to start. This workbook gives you a daily structure, a worked example for every activity, and plenty of room to write in your own words.</p>\n\n<h2>How the 30 days are organized</h2>\n<ul>\n<li><strong>Week 1, Notice:</strong> recognize worry patterns and understand your thoughts.</li>\n<li><strong>Week 2, Calm:</strong> practice breathing, grounding and muscle-release exercises.</li>\n<li><strong>Week 3, Challenge:</strong> explore unhelpful thoughts and work through manageable fears.</li>\n<li><strong>Week 4, Reset:</strong> reflect on your progress and build habits you can keep.</li>\n</ul>\n\n<h2>How it works</h2>\n<ol>\n<li>Set aside 10 to 15 minutes a day.</li>\n<li>Read the day’s short explanation and look at the worked example.</li>\n<li>Complete the guided exercise in your own words.</li>\n<li>Use the weekly check-ins to look back on your experience.</li>\n</ol>\n<p><a href=\"https://holisticpages.shop/preview/tZUeP\">Preview the workbook</a></p>\n\n<h2>Who it may suit</h2>\n<ul>\n<li>Adults who want a structured, approachable way to reflect on worry and practice self-help exercises.</li>\n<li>People who enjoy guided journaling and prefer practical worksheets to unstructured writing.</li>\n<li>Readers who like large, easy-to-read text.</li>\n</ul>\n\n<h2>Who it may not suit</h2>\n<ul>\n<li>If you are looking for therapy or a diagnosis. This is an educational self-help resource.</li>\n<li>If your anxiety is severe, lasts for weeks or interferes with daily life. Please talk with a qualified professional.</li>\n<li>If you have chest pain, trouble breathing or a racing heart that has not been checked. See a doctor first.</li>\n<li>It is not designed for trauma, and it does not replace treatment for panic disorder, OCD, depression or any other condition.</li>\n</ul>\n\n<h2>Important note</h2>\n<p>This workbook is not medical advice and does not diagnose or treat any condition. If you are in immediate danger or in crisis, contact local emergency services or a crisis line in your country. In the United States, call or text 988.</p>\n\n<h2>Before you decide</h2>\n<ul>\n<li>It is a digital download: one PDF, 93 pages, US Letter, 12 pt large print. Nothing is shipped.</li>\n<li>It is sold through our shop at $12.99 on the page we linked. Check the current price there.</li>\n<li>For personal use only. Please do not share or resell it.</li>\n</ul>",
+      "details": [
+        "93-page printable PDF, US Letter size, large-print 12 pt text",
+        "A 30-day plan in four weeks: Notice, Calm, Challenge, Reset",
+        "A worked example for every day, guided prompts and roomy writing space",
+        "8 self-help tools: slow breathing, 5-4-3-2-1 grounding, muscle release, thought record, scheduled worry time, control vs. concern, fear ladder, self-compassion pause",
+        "Reusable forms: weekly review, mood and anxiety tracker, thought record, fear ladder, worry log, calm list",
+        "Digital download, nothing is shipped"
+      ]
+    },
+    {
+      "id": "daily-calm-wellness-guide",
+      "name": "The Daily Calm & Wellness Guide: A 30-Day Wellness Workbook",
+      "category": "Journaling & Mindfulness",
+      "price": 12.99,
+      "hoplink": "https://holisticpages.shop/b/cRmAf",
+      "description": "A printable 68-page, 30-day wellness workbook with morning and evening routines, habit trackers and journaling pages. Works on paper or a tablet. Digital download, no shipping.",
+      "featured": false,
+      "own": true,
+      "images": [
+        "img/daily-calm-wellness-guide-1.webp"
+      ],
+      "html": "<h2>Small habits for a calmer day</h2>\n<p>You don’t need a new life to feel better. This workbook is built around small, repeatable moments: a glass of water, a slow breath, a short walk, a quiet evening. It is designed to fit into busy mornings and tired evenings.</p>\n\n<h2>How the guide is organized</h2>\n<ul>\n<li><strong>Morning Calm:</strong> a 10-minute morning reset, gentle stretching and a morning journal.</li>\n<li><strong>Calm Your Mind:</strong> breathing, grounding, mindful walking and a brain-dump page.</li>\n<li><strong>Nourish Your Body:</strong> a simple plate method, meal ideas and a weekly planner.</li>\n<li><strong>Move &amp; Stretch:</strong> short stretches, desk breaks and a 7-day movement challenge.</li>\n<li><strong>Digital Wellness:</strong> phone boundaries, a declutter checklist and a screen-free evening.</li>\n<li><strong>Evening Calm:</strong> a 30-minute evening reset, a gratitude practice and sleep-friendly habits.</li>\n</ul>\n\n<h2>The 30-day plan</h2>\n<p>One small task a day, about 10 to 20 minutes, over four weeks: Reset, Nourish, Move &amp; Unplug, and Rest &amp; Reconnect. Missed a day? The guide says to skip it or do it later.</p>\n\n<p><a href=\"https://holisticpages.shop/preview/cRmAf\">Preview the guide</a></p>\n\n<h2>How you might use it</h2>\n<ol>\n<li>Start with the Wellness Wheel and set your 30-day intention.</li>\n<li>Follow the daily tasks in order, or pick the chapter you need most.</li>\n<li>Use the trackers and weekly planners to see what is worth keeping.</li>\n<li>At the end, reflect on your 30 days and design your own routine.</li>\n</ol>\n\n<h2>Who it may suit</h2>\n<ul>\n<li>People who want simple daily habits rather than a strict program.</li>\n<li>Readers who enjoy filling in worksheets, checklists and trackers.</li>\n<li>Anyone who wants a gentle, non-diet approach to eating, movement and rest.</li>\n</ul>\n\n<h2>Who it may not suit</h2>\n<ul>\n<li>If you need medical, dietary or mental health advice. The guide offers general wellness ideas only.</li>\n<li>If you have an injury or health condition. Check with your doctor before starting a new activity.</li>\n<li>If stress or low mood feels constant or overwhelming. Please reach out to a doctor or mental health professional.</li>\n</ul>\n\n<h2>Important note</h2>\n<p>This guide supports everyday wellness. It is not medical advice and does not diagnose or treat any condition. If you are in immediate danger or in crisis, contact local emergency services or a crisis line in your country. In the United States, call or text 988.</p>\n\n<h2>Before you decide</h2>\n<ul>\n<li>It is a digital download: one PDF, 68 pages, in A4 and US Letter sizes. You can print it or fill it in on a tablet. Nothing is shipped.</li>\n<li>It is sold through our shop at $12.99 on the page we linked. Check the current price there.</li>\n<li>For personal use only. Please do not share or resell it.</li>\n</ul>",
+      "details": [
+        "68-page printable PDF, in A4 and US Letter sizes",
+        "Six parts: Morning Calm, Calm Your Mind, Nourish Your Body, Move & Stretch, Digital Wellness, Evening Calm",
+        "A 30-day plan in four weeks: Reset, Nourish, Move & Unplug, Rest & Reconnect",
+        "Trackers and planners: 30-day habit tracker, hydration and movement trackers, weekly nourishment and wellness planners",
+        "Check-ins, journaling pages and a letter to your future self",
+        "Works for printing or on a tablet with note apps such as GoodNotes, Notability and Samsung Notes. Digital download, nothing is shipped"
+      ]
+    },
+    {
+      "id": "sleep-rest-reset",
+      "name": "30-Day Sleep & Rest Reset: A Printable Evening Routine Workbook",
+      "category": "Journaling & Mindfulness",
+      "price": 7.99,
+      "hoplink": "https://holisticpages.shop/b/LbqGf",
+      "description": "A printable 80+ page workbook with one small evening step a day for 30 days, plus sleep and habit trackers and reflection pages. Digital download, no shipping.",
+      "featured": false,
+      "own": true,
+      "images": [
+        "img/sleep-rest-reset-1.webp"
+      ],
+      "html": "<h2>A calmer way to end the day</h2>\n<p>If your evenings feel rushed or your mind feels busy at bedtime, a small, repeatable routine can make the transition from “doing” to “resting” easier. This workbook gives you one small step each evening for 30 days, with no strict rules.</p>\n\n<h2>How the 30 days are organized</h2>\n<ul>\n<li><strong>Week 1, Create Calm</strong></li>\n<li><strong>Week 2, Reset Your Routine</strong></li>\n<li><strong>Week 3, Deeper Rest</strong></li>\n<li><strong>Week 4, Make Rest a Lifestyle</strong></li>\n</ul>\n<p>Each day has a focus, a small practice, journaling prompts and an evening check-in.</p>\n\n<h2>How you might use it</h2>\n<ol>\n<li>Download the PDF after you buy.</li>\n<li>Print it, or open it on your tablet in an app such as GoodNotes or Notability.</li>\n<li>Follow one simple step each evening for 30 days.</li>\n<li>Use the weekly reflections and the 30-day review to see what is worth keeping.</li>\n</ol>\n<p><a href=\"https://holisticpages.shop/preview/LbqGf\">Preview the workbook</a></p>\n\n<h2>Who it may suit</h2>\n<ul>\n<li>Busy people who find it hard to switch off in the evening.</li>\n<li>Anyone building a calmer bedtime routine.</li>\n<li>Journaling and self-care lovers who like trackers and checklists.</li>\n</ul>\n\n<h2>Who it may not suit</h2>\n<ul>\n<li>If you have ongoing trouble sleeping or concerns about your health. Please speak with a doctor or a qualified healthcare professional.</li>\n<li>If you want an app, audio sessions or a live coach. This is a printable workbook.</li>\n</ul>\n\n<h2>Important note</h2>\n<p>This workbook offers general wellness ideas. It is not medical advice and is not designed to diagnose, treat, cure or prevent any condition.</p>\n\n<h2>Before you decide</h2>\n<ul>\n<li>It is a digital download: one PDF, 80+ pages, A4. Nothing is shipped.</li>\n<li>It is sold through our shop at $7.99 on the page we linked. Check the current price there.</li>\n<li>For personal use only. Please do not share or resell it.</li>\n</ul>",
+      "details": [
+        "80+ page printable PDF, A4, large print",
+        "30 days of gentle practice: a focus, a small practice, journaling prompts and an evening check-in for each day",
+        "4 themed weeks: Create Calm, Reset Your Routine, Deeper Rest, Make Rest a Lifestyle",
+        "Sleep environment tips, evening boundaries and relaxation practices (breathing, body relaxation, nighttime brain dump)",
+        "Trackers and checklists: sleep tracker, 30-day habit tracker, evening routine tracker",
+        "Weekly reflections, a 30-day review, a wind-down menu and a Sunday reset ritual",
+        "Print it or use it on a tablet (GoodNotes, Notability or any PDF app). Digital download, nothing is shipped"
+      ]
+    },
+    {
+      "id": "american-keto-cookbook",
+      "name": "American Keto Cookbook: 37 Low-Carb Recipes, Meal Plan & Trackers",
+      "category": "Cooking & Food",
+      "price": 2.99,
+      "hoplink": "https://holisticpages.shop/b/v5sBe",
+      "description": "A 56-page digital low-carb cookbook with 37 recipes, a 30-day meal plan, a shopping list and trackers. Digital PDF, no shipping.",
+      "images": [
+        "img/american-keto-cookbook-1.webp"
+      ],
+      "featured": false,
+      "details": [
+        "56-page digital PDF with American measurements (oz, cups, tbsp, °F)",
+        "37 recipes: 25 mains (bun-less burgers, wings, tenders, crab cakes, skillet dinners, salads, wraps) and 12 extras (breakfasts, dips and sauces, desserts, sides)",
+        "On every recipe page: a photo, prep and cook time, servings, estimated nutrition, step-by-step instructions, a storage tip and an ingredient swap",
+        "30-day meal plan, shopping list by store section, weekly habit checklist, 12-week progress tracker and journal prompts",
+        "Keto basics, smart swaps and a safe internal temperatures chart",
+        "Clickable contents and bookmarks. Read it on a phone, tablet or computer, or print the pages you want. Nothing is shipped"
+      ],
+      "own": true,
+      "html": "<h2>Comfort food, low-carb style</h2>\n<p>If you love burgers, wings and chili but want to cook them low-carb, a cookbook that uses ordinary supermarket ingredients can make it easier to start. This one focuses on familiar American comfort foods.</p>\n\n<h2>How the book is organized</h2>\n<ul>\n<li><strong>37 recipes:</strong> 25 mains and 12 extras such as breakfasts, dips, sauces, desserts and sides.</li>\n<li><strong>Plan and track:</strong> a 30-day meal plan, a shopping list sorted by store section, a weekly habit checklist, a 12-week progress tracker and journal prompts.</li>\n<li><strong>Quick reference:</strong> keto basics, smart swaps and a safe internal temperatures chart.</li>\n</ul>\n\n<h2>How you might use it</h2>\n<ol>\n<li>Download the PDF after you buy. Nothing is shipped.</li>\n<li>Read the keto basics, then pick a recipe and check its ingredients and allergens.</li>\n<li>If you like structure, follow the 30-day meal plan and use the shopping list.</li>\n<li>Read it on a phone, tablet or computer, or print only the pages you want.</li>\n</ol>\n\n<h2>Who it may suit</h2>\n<ul>\n<li>Beginners who want simple low-carb meals.</li>\n<li>Busy people who need quick weeknight dinners. Many recipes are ready in under 30 minutes, and most make 2 servings.</li>\n<li>Anyone tired of boring salads and plain chicken.</li>\n</ul>\n\n<h2>Who it may not suit</h2>\n<ul>\n<li>If you have a medical condition, are pregnant or take medication. Talk to your healthcare professional before changing how you eat.</li>\n<li>If you have food allergies. Recipes contain common allergens: eggs, dairy, tree nuts, peanuts and shellfish.</li>\n<li>If you want a printed book. It is a digital PDF.</li>\n</ul>\n\n<h2>Important note</h2>\n<p>This book is for general information only and is not medical advice. Nutrition values are estimates and will vary by brand and portion size. All food photos in the book are AI-generated illustrations, so your finished dish may look different.</p>\n\n<h2>Before you decide</h2>\n<ul>\n<li>It is a digital download: one PDF, 56 pages. Nothing is shipped.</li>\n<li>It is sold through our shop at $2.99 on the page we linked. Check the current price there.</li>\n<li>The shop says all sales are final because it is a digital product. If you have trouble with your file, contact the shop and they will help.</li>\n<li>For personal use only. Please do not share or resell it.</li>\n</ul>"
+    },
+    {
+      "id": "10-second-morning-ritual",
+      "name": "The 10-Second Morning Ritual: 200 Delicious Smoothies to Boost Energy, Burn Fat, and Glow From Within",
+      "category": "Smoothie & Juicing",
+      "price": 12.97,
+      "hoplink": "https://3093f6saxgu8lrt-ite2fwdvcw.hop.clickbank.net",
+      "description": "A collection of 200 smoothie recipes built around a quick morning routine. Check the seller’s page for the format, what is included and the current price.",
+      "images": [
+        "img/10-second-morning-ritual-1.jpg"
+      ],
+      "featured": false,
+      "details": [],
+      "own": false
+    },
+    {
+      "id": "olea-high-phenolic-olive-oil",
+      "name": "Olea True High Phenolic Olive Oil | >1350 Polyphenols | Greek EVOO",
+      "category": "Health Food",
+      "price": 79,
+      "hoplink": "https://tidd.ly/3UzlJnR",
+      "description": "A 500 ml extra virgin olive oil from Greece. The seller states it has more than 1350 mg/kg of polyphenols and is lab tested twice a year, with a certificate. Price and shipping are on the seller’s page.",
+      "images": [
+        "img/olea-high-phenolic-olive-oil-1.jpg",
+        "img/olea-high-phenolic-olive-oil-2.jpg"
+      ],
+      "featured": false,
+      "details": [],
+      "own": false,
+      "long": "Olea True - The Mediterranean's Best Kept Secret >1350 Polyphenols\n\nNot all olive oils are created equal. Supermarket EVOO has 100-300 mg/kg polyphenols. Olea True has >1350 mg/kg - lab tested twice yearly with certificate included.\n\nWhy 21 Customers Rate It 5.0 Stars?\n\n✓ Gold Standard Award 2024/25 & Gold 2023/24 - Olympia Health & Nutrition Awards - The world's most prestigious olive oil competition for health\n✓ The Peppery Kick = Real Polyphenols - That slight burn in your throat? That's oleocanthal and oleacein - the powerful antioxidants others dilute away\n✓ Fair Trade & Organic - Greek Family Farms - Not factory oil. Harvest 2025/2026 from small communities across Greece. Featured in Dr. Cabral Podcast Episode 434\n✓ Lab Tested & Honest - We analyze twice a year and send you the new certificate. Flavor may vary slightly by season - that's natural\n✓ How To Use: Take raw. Never heat - heat kills polyphenols. One teaspoon daily, or drizzle on avocado, salad, sauce\n\nReal Reviews:\n\"Gives me a strong energy boost. Love the taste!\" - Maria Warner\n\"Excellent olive oil with peppery bite. Perfect on avocado!\" - Michelle Owens\n\nSize: 500ml / 16.9 fl oz - Product of Greece\nOptions: One-time $79 or Join Olea Ritual & Save 10% - $71.10 - Skip, reschedule, edit or cancel anytime. Full control.\n\nOxidation Warning: EVOO oxidizes with air, heat, light. Store cool & dark."
+    },
+    {
+      "id": "banana-bread-scones-lemon-bars",
+      "name": "Banana Bread, Scones, Lemon Bars, Blueberry Muffins, Sticky Toffee Pudding, Apple Pie, Brownies, Cookies & Cakes — 100%",
+      "category": "Vegan",
+      "price": 3.99,
+      "hoplink": "https://holisticpages.shop/b/5JNWE",
+      "description": "A vegan baking cookbook with 10 classic British bakes, such as banana bread, scones, lemon bars and sticky toffee pudding. Uses everyday ingredients, with grams and cups.",
+      "images": [
+        "img/banana-bread-scones-lemon-bars-1.jpg"
+      ],
+      "featured": false,
+      "details": [],
+      "own": false,
+      "long": "The Joyful Vegan Baker\n100% Plant-Based British Classics That Taste Like The Real Thing\nThink vegan baking is dry, dense, and disappointing? Think again.\n\nWelcome to the coziest corner of plant-based baking.\n\nI took the 10 most beloved British bakes — the ones that smell like home — and reimagined them 100% vegan, without losing a single crumb of comfort.\n\nNo weird ingredients. No compromise on taste. Just pure, warm, bakery-level joy.\n\nINSIDE YOU'LL FIND:\n\n10 Chapters of Pure Comfort, From My Kitchen to Yours:\n• Banana Bread - ultra-moist, sliced, and studded with walnuts • Golden British Scones - fluffy, buttery (without the butter) with jam • Lemon Bars - zesty, bright, dusted with powdered sugar • Blueberry Muffins - bursting with juicy blueberries • Sticky Toffee Pudding - drowning in rich, glossy toffee sauce • Classic Lattice Apple Pie - golden, flaky, cinnamon-kissed • Fudgy Chocolate Brownies - deep, dark, and decadently fudgy • Chocolate Chip Cookies - crispy edges, chewy centers • Vanilla Layer Cake - soft vanilla crumb with cloud-like white frosting • Carrot Cake - warmly spiced with luscious cream cheese frosting \nWHY THIS BOOK WILL BECOME YOUR MOST-STAINED COOKBOOK:\n\n✓ FOOLPROOF: Tested 3x for guaranteed success. Grams + cups included.\n✓ EVERYDAY INGREDIENTS: Nothing fancy, everything you can find at your local shop.\n✓ 8K APPETIZING PHOTOGRAPHY: You will want to bake straight from the cover.\n✓ FOR EVERYONE: Whether you're fully vegan, egg-allergic, dairy-free, or just curious — these recipes work.\n\nThis is not just a cookbook. It's the smell of fresh baking filling your house again — kinder to your body, to animals, and to the planet.\n\nScroll up, click \"Buy Now\" and make your kitchen the best vegan bakery on the block."
+    }
+  ]
+}
